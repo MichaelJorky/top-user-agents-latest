@@ -1,0 +1,200 @@
+Instagram 250.0.0.0.29 (iPhone; iPhone; CPU iPhone OS 15_3 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 10; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4887.60 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5266.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.4885.167 Mobile Safari/537.36
+Instagram 134.0.0.0.92 (iPhone; iPhone; CPU iPhone OS 16_1 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 8; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4034.38 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4045.171 Mobile Safari/537.36
+Instagram 327.0.0.0.35 (iPhone; iPhone; CPU iPhone OS 17_1 like Mac OS X; en_US; iPad8,1)
+Instagram 385.0.0.0.7 (iPhone; iPhone; CPU iPhone OS 15_1 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 11; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.3301.166 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.3815.3 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4379.107 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.3424.85 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.3546.164 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3081.107 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3256.155 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4480.199 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4911.151 Mobile Safari/537.36
+Instagram 348.0.0.0.89 (iPhone; iPhone; CPU iPhone OS 13_0 like Mac OS X; en_US; iPhone14,2)
+Instagram 325.0.0.0.84 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPhone14,2)
+Instagram 213.0.0.0.88 (iPhone; iPhone; CPU iPhone OS 14_0 like Mac OS X; en_US; iPad8,1)
+Instagram 288.0.0.0.23 (iPhone; iPhone; CPU iPhone OS 15_0 like Mac OS X; en_US; iPhone12,1)
+Instagram 332.0.0.0.94 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.3900.51 Mobile Safari/537.36
+Instagram 156.0.0.0.30 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.3219.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4162.55 Mobile Safari/537.36
+Instagram 390.0.0.0.70 (iPhone; iPhone; CPU iPhone OS 13_0 like Mac OS X; en_US; iPad8,1)
+Instagram 131.0.0.0.92 (iPhone; iPhone; CPU iPhone OS 13_3 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 9; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.3554.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.3267.1 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4068.128 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4720.163 Mobile Safari/537.36
+Instagram 115.0.0.0.82 (iPhone; iPhone; CPU iPhone OS 15_1 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 11; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5437.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5804.97 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.3068.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4024.10 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4061.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5745.131 Mobile Safari/537.36
+Instagram 215.0.0.0.41 (iPhone; iPhone; CPU iPhone OS 13_2 like Mac OS X; en_US; iPhone12,1)
+Instagram 138.0.0.0.93 (iPhone; iPhone; CPU iPhone OS 14_1 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 11; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5518.67 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.3497.78 Mobile Safari/537.36
+Instagram 118.0.0.0.98 (iPhone; iPhone; CPU iPhone OS 16_4 like Mac OS X; en_US; iPhone14,2)
+Instagram 173.0.0.0.68 (iPhone; iPhone; CPU iPhone OS 14_1 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4364.164 Mobile Safari/537.36
+Instagram 133.0.0.0.79 (iPhone; iPhone; CPU iPhone OS 17_4 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.3159.149 Mobile Safari/537.36
+Instagram 373.0.0.0.58 (iPhone; iPhone; CPU iPhone OS 15_3 like Mac OS X; en_US; iPhone14,2)
+Instagram 163.0.0.0.59 (iPhone; iPhone; CPU iPhone OS 13_2 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 9; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4709.77 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5370.75 Mobile Safari/537.36
+Instagram 377.0.0.0.76 (iPhone; iPhone; CPU iPhone OS 17_1 like Mac OS X; en_US; iPhone14,2)
+Instagram 194.0.0.0.9 (iPhone; iPhone; CPU iPhone OS 17_3 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 9; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.4244.76 Mobile Safari/537.36
+Instagram 359.0.0.0.86 (iPhone; iPhone; CPU iPhone OS 14_0 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5885.34 Mobile Safari/537.36
+Instagram 105.0.0.0.70 (iPhone; iPhone; CPU iPhone OS 17_4 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.3255.160 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4560.45 Mobile Safari/537.36
+Instagram 214.0.0.0.53 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 10; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.5251.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.3773.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.3179.148 Mobile Safari/537.36
+Instagram 349.0.0.0.27 (iPhone; iPhone; CPU iPhone OS 15_1 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 10; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.5105.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.3709.186 Mobile Safari/537.36
+Instagram 358.0.0.0.76 (iPhone; iPhone; CPU iPhone OS 17_3 like Mac OS X; en_US; iPhone12,1)
+Instagram 371.0.0.0.34 (iPhone; iPhone; CPU iPhone OS 15_0 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.5350.20 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.4976.19 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.3047.134 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4515.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.3218.42 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.3496.177 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4154.99 Mobile Safari/537.36
+Instagram 244.0.0.0.44 (iPhone; iPhone; CPU iPhone OS 17_0 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4140.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4912.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.3803.175 Mobile Safari/537.36
+Instagram 396.0.0.0.73 (iPhone; iPhone; CPU iPhone OS 15_0 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 8; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4994.47 Mobile Safari/537.36
+Instagram 301.0.0.0.96 (iPhone; iPhone; CPU iPhone OS 16_4 like Mac OS X; en_US; iPhone14,2)
+Instagram 156.0.0.0.86 (iPhone; iPhone; CPU iPhone OS 15_1 like Mac OS X; en_US; iPhone14,2)
+Instagram 181.0.0.0.91 (iPhone; iPhone; CPU iPhone OS 14_3 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 13; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4681.167 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4416.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5329.50 Mobile Safari/537.36
+Instagram 315.0.0.0.67 (iPhone; iPhone; CPU iPhone OS 14_4 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 10; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5637.160 Mobile Safari/537.36
+Instagram 301.0.0.0.68 (iPhone; iPhone; CPU iPhone OS 13_4 like Mac OS X; en_US; iPhone12,1)
+Instagram 325.0.0.0.59 (iPhone; iPhone; CPU iPhone OS 14_1 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 8; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.5358.32 Mobile Safari/537.36
+Instagram 233.0.0.0.75 (iPhone; iPhone; CPU iPhone OS 17_4 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 10; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4603.128 Mobile Safari/537.36
+Instagram 236.0.0.0.97 (iPhone; iPhone; CPU iPhone OS 15_2 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.3613.94 Mobile Safari/537.36
+Instagram 193.0.0.0.1 (iPhone; iPhone; CPU iPhone OS 14_3 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 10; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4392.155 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4517.75 Mobile Safari/537.36
+Instagram 104.0.0.0.25 (iPhone; iPhone; CPU iPhone OS 17_2 like Mac OS X; en_US; iPhone14,2)
+Instagram 100.0.0.0.67 (iPhone; iPhone; CPU iPhone OS 13_4 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.3423.28 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4053.124 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.3763.25 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.3558.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.5882.29 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3508.174 Mobile Safari/537.36
+Instagram 123.0.0.0.73 (iPhone; iPhone; CPU iPhone OS 14_4 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 10; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.3083.66 Mobile Safari/537.36
+Instagram 394.0.0.0.23 (iPhone; iPhone; CPU iPhone OS 14_4 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 10; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.3789.64 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3135.36 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3667.173 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.5356.47 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.5157.96 Mobile Safari/537.36
+Instagram 334.0.0.0.88 (iPhone; iPhone; CPU iPhone OS 13_2 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 9; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.3907.21 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5772.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.5026.104 Mobile Safari/537.36
+Instagram 314.0.0.0.80 (iPhone; iPhone; CPU iPhone OS 15_4 like Mac OS X; en_US; iPhone14,2)
+Instagram 303.0.0.0.47 (iPhone; iPhone; CPU iPhone OS 14_0 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4549.86 Mobile Safari/537.36
+Instagram 257.0.0.0.49 (iPhone; iPhone; CPU iPhone OS 14_2 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.3090.183 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5856.157 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5132.198 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5438.79 Mobile Safari/537.36
+Instagram 135.0.0.0.52 (iPhone; iPhone; CPU iPhone OS 14_1 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 9; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.3296.59 Mobile Safari/537.36
+Instagram 173.0.0.0.39 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4407.45 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3433.80 Mobile Safari/537.36
+Instagram 313.0.0.0.30 (iPhone; iPhone; CPU iPhone OS 16_2 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 13; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.3423.26 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4336.59 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.3426.67 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.3516.15 Mobile Safari/537.36
+Instagram 182.0.0.0.55 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPad8,1)
+Instagram 261.0.0.0.14 (iPhone; iPhone; CPU iPhone OS 15_2 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 11; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4090.81 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4107.35 Mobile Safari/537.36
+Instagram 315.0.0.0.74 (iPhone; iPhone; CPU iPhone OS 13_2 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.5273.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.3664.52 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3970.27 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.5208.109 Mobile Safari/537.36
+Instagram 177.0.0.0.12 (iPhone; iPhone; CPU iPhone OS 16_4 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 10; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5396.46 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4700.191 Mobile Safari/537.36
+Instagram 325.0.0.0.88 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 9; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.3939.105 Mobile Safari/537.36
+Instagram 257.0.0.0.71 (iPhone; iPhone; CPU iPhone OS 15_3 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 8; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.4598.175 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4086.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5762.37 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.3629.87 Mobile Safari/537.36
+Instagram 176.0.0.0.17 (iPhone; iPhone; CPU iPhone OS 15_4 like Mac OS X; en_US; iPhone12,1)
+Instagram 217.0.0.0.95 (iPhone; iPhone; CPU iPhone OS 13_0 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 9; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4939.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4904.90 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.3272.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4537.160 Mobile Safari/537.36
+Instagram 168.0.0.0.69 (iPhone; iPhone; CPU iPhone OS 17_2 like Mac OS X; en_US; iPad8,1)
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.5311.13 Mobile Safari/537.36
+Instagram 283.0.0.0.93 (iPhone; iPhone; CPU iPhone OS 14_0 like Mac OS X; en_US; iPad8,1)
+Instagram 176.0.0.0.25 (iPhone; iPhone; CPU iPhone OS 16_2 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 10; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4891.180 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.3841.72 Mobile Safari/537.36
+Instagram 338.0.0.0.79 (iPhone; iPhone; CPU iPhone OS 14_1 like Mac OS X; en_US; iPad8,1)
+Instagram 210.0.0.0.93 (iPhone; iPhone; CPU iPhone OS 14_1 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 9; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.3049.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.3860.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4507.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4736.143 Mobile Safari/537.36
+Instagram 158.0.0.0.67 (iPhone; iPhone; CPU iPhone OS 17_4 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 9; Redmi Note 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.4869.95 Mobile Safari/537.36
+Instagram 335.0.0.0.43 (iPhone; iPhone; CPU iPhone OS 14_4 like Mac OS X; en_US; iPhone12,1)
+Instagram 220.0.0.0.72 (iPhone; iPhone; CPU iPhone OS 14_3 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 11; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.5538.184 Mobile Safari/537.36
+Instagram 167.0.0.0.30 (iPhone; iPhone; CPU iPhone OS 16_1 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.5233.128 Mobile Safari/537.36
+Instagram 268.0.0.0.29 (iPhone; iPhone; CPU iPhone OS 16_2 like Mac OS X; en_US; iPhone12,1)
+Mozilla/5.0 (Linux; Android 10; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.3443.170 Mobile Safari/537.36
+Instagram 255.0.0.0.61 (iPhone; iPhone; CPU iPhone OS 16_4 like Mac OS X; en_US; iPhone12,1)
+Instagram 210.0.0.0.8 (iPhone; iPhone; CPU iPhone OS 14_1 like Mac OS X; en_US; iPhone14,2)
+Instagram 119.0.0.0.48 (iPhone; iPhone; CPU iPhone OS 13_1 like Mac OS X; en_US; iPad8,1)
+Instagram 150.0.0.0.19 (iPhone; iPhone; CPU iPhone OS 17_1 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 13; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.3480.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.3664.104 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.3045.55 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5792.146 Mobile Safari/537.36
+Instagram 109.0.0.0.18 (iPhone; iPhone; CPU iPhone OS 16_3 like Mac OS X; en_US; iPhone12,1)
+Instagram 112.0.0.0.10 (iPhone; iPhone; CPU iPhone OS 14_4 like Mac OS X; en_US; iPhone12,1)
+Instagram 137.0.0.0.27 (iPhone; iPhone; CPU iPhone OS 15_1 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 13; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.3785.44 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5733.115 Mobile Safari/537.36
+Instagram 395.0.0.0.64 (iPhone; iPhone; CPU iPhone OS 15_1 like Mac OS X; en_US; iPhone14,2)
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.5245.63 Mobile Safari/537.36
