@@ -1,0 +1,10 @@
+Mozilla/5.0 (iPhone; CPU OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) KodeiOS/3.24b3.24.4 Mobile/15E148 Safari/605.1.15 /TansoDL
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_12 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Nextdoor v6.156.5 ndact:AFB5A8CE-5AD4-4AD3-BA94-932B29311643 ndactsource:email
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/534.0.0.38.108;FBBV/827831877;FBDV/iPhone18,4;FBMD/iPhone;FBSN/iOS;FBSV/26.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_2 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Mobile/iPhone11,6 Viber/26.6.2.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/126.2 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/135.1 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_12 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/143.1.1 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/520.0.0.62.107;FBBV/776890074;FBDV/iPhone18,3;FBMD/iPhone;FBSN/iOS;FBSV/26.1;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6.2 Mobile/15E148 Safari/605.1.15 BingSapphire/1.0.410714002
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/299.0.597926513 Mobile/15E148 Safari/604.1

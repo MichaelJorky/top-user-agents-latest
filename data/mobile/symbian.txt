@@ -1,0 +1,10 @@
+User agent
+Mozilla/5.0 (Linux; arm_64; Nokia) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.1.4688.149 YaBrowser/26.3.7.71.06 SA/3 Mobile Safari/537.36
+Mozilla/5.0 (Linux; arm_64; Nokia) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4668.147 YaBrowser/26.4.7.71.00 SA/3 Mobile Safari/537.36
+Mozilla/5.0 (Linux; 10; Nokia 3.1 Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Nokia Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36[FBAN/EMA;FBLC/en_US;FBAV/298.0.0.10.115;]
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36 Nokia3350/1.0 (05.11)
+Mozilla/5.0 (Linux; 8.0.0; Nokia 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+Mozilla/5.0 (Java; U; en-us; nokia5233) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.6.0.199/70/352/UCWEB Mobile UNTRUSTED/1.0 3gpp-gba
+Mozilla/5.0 (Java; U; en-us; nokia5800d-1) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.5.0.185/82/352/UCWEB Mobile UNTRUSTED/1.0 3gpp-gba
+Mozilla/5.0 (Java; U; en-us; nokia5800d-1) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.6.0.199/69/352/UCWEB Mobile UNTRUSTED/1.0

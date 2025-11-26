@@ -1,0 +1,19 @@
+Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 [ip:5.255.231.153]
+Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML
+Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko)
+Bot: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0
+Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0
+Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268
+compatible; YandexBot/3.0; +http://yandex.com/bots
+Mozilla/5.0 (compatible; YandexAdNet/1.0; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexUserproxy; robot; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexTracker/1.0; +http://yandex.com/bots)
+Yandex/9.80 Linux; Android; Presto/2.12.388 Version/12.16
+yandex/2.0 (compatible; YandexMarket/2.0; +http://yandex.com/bots)
+Mozilla/5.0 (Android; Tablet; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexRCA/1.0; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexTurbo/1.0; +http://yandex.com/bots)
+Yandex/1.01.001 (compatible; Win16; I)
+Mozilla/5.0 (compatible; YandexBlogs/0.99; robot; B; +http://yandex.com/bots) 1 readers
+Mozilla/5.0 (compatible; YandexAntivirus/2.0; +http://yandex.com/bots)

@@ -1,0 +1,6 @@
+facebookplatform/1.0 (+http://developers.facebook.com)
+facebookplatform/1.0 (+http://developers.facebook.com)+Sleipnir6/6.4.4; SleipnirSiteUpdates/6.4.4)
+facebookscraper/1.0( http://www.facebook.com/sharescraper_help.php)(Linux LLC 1.2)
+facebookscraper/1.0( http://www.facebook.com/sharescraper_help.php)
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) [ip:31.13.127.24]8]
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
