@@ -1,7 +1,0 @@
-Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
-Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) 
-Mozilla/5.0 (compatible; bingbot/2.0; http://www.bing.com/bing
-Mozilla/5.0 (compatible; bingbot/2.0 http://www.bing.com/bingbot.htm)(Linux LLC 1.2)
-Mozilla/5.0 AppleWebKit/537.36 (KHTML%2C like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36
-Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/112.0.0.0 Safari/537.36
