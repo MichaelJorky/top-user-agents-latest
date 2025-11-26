@@ -69,5 +69,5 @@ Contributions are welcome. Please:
 ---
 
 ## License
-MIT License — see `LICENSE` (add if needed).
+MIT License — see `LICENSE`.
 
